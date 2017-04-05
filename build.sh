@@ -5,5 +5,3 @@ make
 
 ## make user test
 make -f user_mk
-
-## end
